@@ -122,10 +122,10 @@ In autumn 2026 I'm moving to Helsinki for an **MSc in Data Science at the Univer
 
 ### Certifications
 
-![IBM Data Science Professional](https://img.shields.io/badge/IBM%20Data%20Science%20Professional-16161e?style=flat-square&logo=ibm&logoColor=A78BFA)
-![IBM Generative & Agentic AI](https://img.shields.io/badge/IBM%20Generative%20%26%20Agentic%20AI-16161e?style=flat-square&logo=ibm&logoColor=A78BFA)
-![ML Specialization](https://img.shields.io/badge/ML%20Specialization%20%C2%B7%20DeepLearning.AI-16161e?style=flat-square&logo=coursera&logoColor=A78BFA)
-![Huawei Seeds for the Future](https://img.shields.io/badge/Huawei%20Seeds%20for%20the%20Future-16161e?style=flat-square&logo=huawei&logoColor=A78BFA)
+![IBM Data Science Professional](https://img.shields.io/badge/IBM%20Data%20Science%20Professional-16161e?style=flat-square)
+![IBM Generative & Agentic AI](https://img.shields.io/badge/IBM%20Generative%20%26%20Agentic%20AI-16161e?style=flat-square)
+![ML Specialization](https://img.shields.io/badge/ML%20Specialization%20%C2%B7%20DeepLearning.AI-16161e?style=flat-square)
+![Huawei Seeds for the Future](https://img.shields.io/badge/Huawei%20Seeds%20for%20the%20Future-16161e?style=flat-square)
 
 ---
 
