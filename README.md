@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:24283b,100:414868&height=190&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer&descSize=18&descAlignY=58" alt="Abtaal Aatif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,40:3b3486,80:7aa2f7,100:bb9af7&height=200&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=50&fontAlignY=36&animation=twinkling&desc=AI%20Engineer&descSize=18&descAlignY=56" alt="Abtaal Aatif" width="100%" />
 
 <a href="https://github.com/Abtaal2003">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&lines=Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Agentic+Systems;MSc+Data+Science+%40+University+of+Helsinki%2C+2026;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+Docker" alt="taglines" />
@@ -34,7 +34,7 @@
 
 <a href="https://www.linkedin.com/in/abtaal-aatif"><img src="https://img.shields.io/badge/LinkedIn-16161e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
 <a href="mailto:abtaalaatif.official@gmail.com"><img src="https://img.shields.io/badge/Email-16161e?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Abtaal2003&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Abtaal2003&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
@@ -42,9 +42,9 @@
 
 ### Hey, I'm Abtaal
 
-AI Engineer at **IBM**, working on computer vision pipelines and LLM agent systems. Relocating to Helsinki in autumn 2026 for an **MSc in Data Science at the University of Helsinki** on a full tuition-fee-waiver scholarship.
+AI Engineer at **IBM** with over a year of professional experience across computer vision and LLM agent systems. At IBM I build real-time detection pipelines with YOLOv11 and MiDaS for infrastructure maintenance. Before that, at **Data Science Dojo**, I shipped 15+ AI agents across two enterprise products and built multi-agent platforms with MCP server integrations.
 
-I build systems that perceive and reason, and keep a public trail of what I learn.
+In autumn 2026 I'm moving to Helsinki for an **MSc in Data Science at the University of Helsinki** on a full tuition-fee-waiver scholarship. I build systems that perceive and reason, and keep a public trail of what I learn.
 
 > Summa Cum Laude, BSc Computer Science, FAST-NUCES. Ranked 3rd of 600+, four Gold Medals.
 
@@ -86,7 +86,11 @@ I build systems that perceive and reason, and keep a public trail of what I lear
 **Specialised**
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-16161e?style=flat-square&logo=yolo&logoColor=A78BFA)
+![MiDaS](https://img.shields.io/badge/MiDaS-16161e?style=flat-square&logoColor=A78BFA)
 ![LangChain](https://img.shields.io/badge/LangChain-16161e?style=flat-square&logo=langchain&logoColor=A78BFA)
+![AutoGen](https://img.shields.io/badge/AutoGen-16161e?style=flat-square&logoColor=A78BFA)
+![MCP](https://img.shields.io/badge/MCP-16161e?style=flat-square&logoColor=A78BFA)
+![Llama 3.3](https://img.shields.io/badge/Llama%203.3-16161e?style=flat-square&logoColor=A78BFA)
 ![Claude](https://img.shields.io/badge/Claude-16161e?style=flat-square&logo=anthropic&logoColor=A78BFA)
 ![Jupyter](https://img.shields.io/badge/Jupyter-16161e?style=flat-square&logo=jupyter&logoColor=A78BFA)
 
@@ -105,10 +109,23 @@ I build systems that perceive and reason, and keep a public trail of what I lear
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abtaal2003&show_icons=true&hide_border=true&theme=tokyonight&icon_color=A78BFA&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abtaal2003&show_icons=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtaal2003&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="Top languages" />
 
+<img src="https://streak-stats.demolab.com/?user=Abtaal2003&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=BB9AF7&currStreakNum=BB9AF7&currStreakLabel=A78BFA&sideLabels=7AA2F7&sideNums=c0caf5&dates=565f89" alt="Streak" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abtaal2003&hide_border=true&bg_color=16161e&color=A78BFA&line=7aa2f7&point=bb9af7&area=true&area_color=24283b" alt="Contribution graph" width="100%" />
+
 </div>
+
+---
+
+### Certifications
+
+![IBM Data Science Professional](https://img.shields.io/badge/IBM%20Data%20Science%20Professional-16161e?style=flat-square&logo=ibm&logoColor=A78BFA)
+![IBM Generative & Agentic AI](https://img.shields.io/badge/IBM%20Generative%20%26%20Agentic%20AI-16161e?style=flat-square&logo=ibm&logoColor=A78BFA)
+![ML Specialization](https://img.shields.io/badge/ML%20Specialization%20%C2%B7%20DeepLearning.AI-16161e?style=flat-square&logo=coursera&logoColor=A78BFA)
+![Huawei Seeds for the Future](https://img.shields.io/badge/Huawei%20Seeds%20for%20the%20Future-16161e?style=flat-square&logo=huawei&logoColor=A78BFA)
 
 ---
 
@@ -121,6 +138,6 @@ I build systems that perceive and reason, and keep a public trail of what I lear
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:16161e&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,40:7aa2f7,80:3b3486,100:16161e&height=110&section=footer" alt="" width="100%" />
 
 </div>
