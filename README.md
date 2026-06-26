@@ -1,22 +1,40 @@
 <!--
   GitHub profile README for Abtaal2003
-  This file lives in a repository named exactly "Abtaal2003" (your username),
-  as README.md at the root. GitHub renders it at the top of your profile page.
+  Lives in a repo named exactly "Abtaal2003" (your username), as README.md at the root.
+
+  THEME SWAP: three moods are pre-built. Tokyo Night is active below.
+  To switch, replace the gradient/color values in the header img, typing-svg,
+  stats imgs, and footer img with one of these sets:
+
+  TOKYO NIGHT (active)
+    header/footer gradient : 0:1a1b26,50:24283b,100:414868
+    accent (typing/title)  : A78BFA
+    stats theme            : theme=tokyonight
+
+  RAINY FOREST NIGHT
+    header/footer gradient : 0:0b1d1a,50:13312b,100:1f5a4c
+    accent (typing/title)  : 5eead4
+    stats (no named theme) : title_color=5eead4&icon_color=5eead4&text_color=a7f3d0&bg_color=0b1d1a
+
+  HALLOWEEN AUTUMN
+    header/footer gradient : 0:1a0f00,50:3d1a05,100:7a2e00
+    accent (typing/title)  : fb923c
+    stats (no named theme) : title_color=fb923c&icon_color=f59e0b&text_color=fed7aa&bg_color=1a0f00
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:241b4a,100:3b0764&height=200&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20building%20things%20that%20see%20and%20reason%2C%20best%20at%20night&descSize=18&descAlignY=58" alt="Abtaal Aatif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=190&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer&descSize=18&descAlignY=58" alt="Abtaal Aatif" width="100%" />
 
 <a href="https://github.com/Abtaal2003">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Computer+vision%2C+LLM+agents%2C+and+a+lot+of+rain;Headed+to+Helsinki+for+an+MSc+in+Data+Science;Tokyo+at+midnight%2C+wet+streets%2C+neon+reflections;Case+files+closed%2C+inference+loops+open;Debugging+by+night%2C+like+any+good+mystery" alt="taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1300&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+vision%2C+LLM+agents%2C+and+a+lot+of+rain;Building+systems+that+see+and+reason;Headed+to+Helsinki+for+an+MSc+in+Data+Science" alt="taglines" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/abtaal-aatif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abtaalaatif.official@gmail.com"><img src="https://img.shields.io/badge/Email-2c2c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Abtaal2003&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="profile views" />
+<a href="mailto:abtaalaatif.official@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Abtaal2003&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
@@ -26,7 +44,7 @@
 
 AI Engineer at **IBM**, working on computer vision pipelines and LLM agent systems. In autumn 2026 I'm relocating to Helsinki for an **MSc in Data Science at the University of Helsinki** on a full tuition-fee-waiver scholarship.
 
-I like building systems that perceive and reason, and I keep a public trail of nearly everything I learn — partly for other people, mostly so future-me stops re-solving solved problems. The notes are real, the projects ship with CI, and the README runs a little nocturnal.
+I like building systems that perceive and reason, and I keep a public trail of nearly everything I learn. If you wandered in from a pinned repo: the notes are real, the projects ship with CI, and the README is always a little nocturnal.
 
 > Summa Cum Laude, BSc Computer Science, FAST-NUCES. Ranked 3rd of 600+, four Gold Medals.
 
@@ -36,7 +54,7 @@ I like building systems that perceive and reason, and I keep a public trail of n
 
 - Building React Native + YOLOv11 + MiDaS vision pipelines for infrastructure maintenance at IBM
 - Writing a public library of technical reference guides in [`deep-dives`](https://github.com/Abtaal2003/deep-dives)
-- Working through a long, self-directed roadmap from Python developer to AI engineer, case notes filed in [`learning-notes`](https://github.com/Abtaal2003/learning-notes)
+- Working through a long, self-directed roadmap from Python developer to AI engineer, logged in [`learning-notes`](https://github.com/Abtaal2003/learning-notes)
 - Sorting out the move to Finland, one residence-permit form at a time
 
 ---
@@ -95,7 +113,7 @@ I like building systems that perceive and reason, and I keep a public trail of n
 
 ---
 
-### Languages I speak (and a couple I'm still learning)
+### Languages
 
 ![English](https://img.shields.io/badge/English-C2%20%C2%B7%20IELTS%208.5-4c1d95?style=flat-square)
 ![Urdu](https://img.shields.io/badge/Urdu-Native-4c1d95?style=flat-square)
@@ -106,8 +124,10 @@ I like building systems that perceive and reason, and I keep a public trail of n
 
 <div align="center">
 
-<i>No genius works in the light. Most of mine happens after midnight, with bad tea and worse weather.</i>
+<sub>Off the clock: anime and long mystery stories, rainy Pacific Northwest nights, and a clear sky full of stars. Usually rewatching something set in a small, foggy town.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:241b4a,100:0d1b3e&height=120&section=footer" alt="" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=110&section=footer" alt="" width="100%" />
 
 </div>
