@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:241b4a,100:3b0764&height=200&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20building%20things%20that%20see%20and%20reason&descSize=18&descAlignY=58" alt="Abtaal Aatif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:241b4a,100:3b0764&height=200&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20building%20things%20that%20see%20and%20reason%2C%20best%20at%20night&descSize=18&descAlignY=58" alt="Abtaal Aatif" width="100%" />
 
 <a href="https://github.com/Abtaal2003">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Computer+vision%2C+LLM+agents%2C+and+a+lot+of+rain;Headed+to+Helsinki+for+an+MSc+in+Data+Science;Chasing+starry+skies+and+clean+inference+loops;Anime%2C+mystery%2C+and+Pacific+Northwest+fog" alt="taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Computer+vision%2C+LLM+agents%2C+and+a+lot+of+rain;Headed+to+Helsinki+for+an+MSc+in+Data+Science;Tokyo+at+midnight%2C+wet+streets%2C+neon+reflections;Case+files+closed%2C+inference+loops+open;Debugging+by+night%2C+like+any+good+mystery" alt="taglines" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 AI Engineer at **IBM**, working on computer vision pipelines and LLM agent systems. In autumn 2026 I'm relocating to Helsinki for an **MSc in Data Science at the University of Helsinki** on a full tuition-fee-waiver scholarship.
 
-I like building systems that perceive and reason, and I keep a public trail of nearly everything I learn. If you wandered in from a pinned repo: the notes are real, the projects ship with CI, and the README themes are always a little nocturnal.
+I like building systems that perceive and reason, and I keep a public trail of nearly everything I learn — partly for other people, mostly so future-me stops re-solving solved problems. The notes are real, the projects ship with CI, and the README runs a little nocturnal.
 
 > Summa Cum Laude, BSc Computer Science, FAST-NUCES. Ranked 3rd of 600+, four Gold Medals.
 
@@ -36,7 +36,7 @@ I like building systems that perceive and reason, and I keep a public trail of n
 
 - Building React Native + YOLOv11 + MiDaS vision pipelines for infrastructure maintenance at IBM
 - Writing a public library of technical reference guides in [`deep-dives`](https://github.com/Abtaal2003/deep-dives)
-- Working through a long, self-directed roadmap from Python developer to AI engineer, logged in [`learning-notes`](https://github.com/Abtaal2003/learning-notes)
+- Working through a long, self-directed roadmap from Python developer to AI engineer, case notes filed in [`learning-notes`](https://github.com/Abtaal2003/learning-notes)
 - Sorting out the move to Finland, one residence-permit form at a time
 
 ---
@@ -102,24 +102,11 @@ I like building systems that perceive and reason, and I keep a public trail of n
 ![German](https://img.shields.io/badge/German-A2-6d28d9?style=flat-square)
 ![Japanese](https://img.shields.io/badge/Japanese-N5-7c3aed?style=flat-square)
 
-The Japanese is partly for the move toward Europe and partly because reading manga and light novels in the original is the dream.
-
----
-
-### Off the clock
-
-When I'm not training models or filling out Finnish paperwork, I'm usually somewhere between a rainy Pacific Northwest night and a starry sky:
-
-- **Anime, manga, and light novels**, the longer and more atmospheric the better
-- **Mystery** in most forms, and a soft spot for *Gravity Falls* and the foggy Oregon woods it lives in
-- **Rain, night, and quiet**, the kind of weather that makes a lamp-lit desk feel like the only room in the world
-- **Looking up**, because a clear sky full of stars resets something
-
 ---
 
 <div align="center">
 
-<i>Somewhere out past the rain, the interesting answer is usually the one hidden in plain sight.</i>
+<i>No genius works in the light. Most of mine happens after midnight, with bad tea and worse weather.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:241b4a,100:0d1b3e&height=120&section=footer" alt="" width="100%" />
 
