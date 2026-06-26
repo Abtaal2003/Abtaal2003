@@ -27,7 +27,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,40:3b3486,80:7aa2f7,100:bb9af7&height=200&section=header&text=Abtaal%20Aatif&fontColor=ffffff&fontSize=50&fontAlignY=36&animation=twinkling&desc=AI%20Engineer&descSize=18&descAlignY=56" alt="Abtaal Aatif" width="100%" />
 
 <a href="https://github.com/Abtaal2003">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&lines=Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Agentic+Systems;MSc+Data+Science+%40+University+of+Helsinki%2C+2026;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+Docker" alt="taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=7AA2F7&center=true&vCenter=true&width=560&lines=Computer+Vision+%C2%B7+LLM+Agents+%C2%B7+Agentic+Systems;MSc+Data+Science+%40+University+of+Helsinki%2C+2026;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+Docker" alt="taglines" />
 </a>
 
 <br/>
@@ -110,7 +110,7 @@ In autumn 2026 I'm moving to Helsinki for an **MSc in Data Science at the Univer
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abtaal2003&show_icons=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtaal2003&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtaal2003&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=16161e&hide=jupyter%20notebook,markdown,html,css&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Abtaal2003&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=BB9AF7&currStreakNum=BB9AF7&currStreakLabel=A78BFA&sideLabels=7AA2F7&sideNums=c0caf5&dates=565f89" alt="Streak" height="165" />
 
