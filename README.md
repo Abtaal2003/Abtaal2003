@@ -109,8 +109,8 @@ In autumn 2026 I'm moving to Helsinki for an **MSc in Data Science at the Univer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abtaal2003&show_icons=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtaal2003&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=16161e&hide=jupyter%20notebook,markdown,html,css&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Abtaal2003&show_icons=true&hide_border=true&theme=tokyonight&icon_color=7aa2f7&title_color=A78BFA&text_color=c0caf5&bg_color=16161e" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abtaal2003&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=c0caf5&bg_color=16161e&hide=jupyter%20notebook,markdown,html,css&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Abtaal2003&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=BB9AF7&currStreakNum=BB9AF7&currStreakLabel=A78BFA&sideLabels=7AA2F7&sideNums=c0caf5&dates=565f89" alt="Streak" height="165" />
 
