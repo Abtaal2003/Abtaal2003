@@ -102,7 +102,7 @@ In autumn 2026 I'm moving to Helsinki for an **MSc in Data Science at the Univer
 | :--- | :--- |
 | [**deep-dives**](https://github.com/Abtaal2003/deep-dives) | Concept-by-concept technical reference guides, written to be read by anyone |
 | [**learning-notes**](https://github.com/Abtaal2003/learning-notes) | Weekly logs and retrieval prompts from a multi-year study plan |
-| [**Projects**](https://github.com/Abtaal2003/Projects) | Hands-on solo builds for learning, upskilling, and practice |
+| [**projects**](https://github.com/Abtaal2003/projects) | Hands-on solo builds for learning, upskilling, and practice |
 | [**IBM-Data-Science-Capstone**](https://github.com/Abtaal2003/IBM-Data-Science-Capstone-Project) | Notebook work from the IBM Data Science Professional Certificate |
 
 ---
