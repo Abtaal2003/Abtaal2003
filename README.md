@@ -146,7 +146,6 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 ![Urdu](https://img.shields.io/badge/Urdu-Native-b11226?style=flat-square&labelColor=0d1117)
 ![German](https://img.shields.io/badge/German-A2%20certified-b11226?style=flat-square&labelColor=0d1117)
 ![Swedish](https://img.shields.io/badge/Swedish-A1%20%C2%B7%20learning-b11226?style=flat-square&labelColor=0d1117)
-![Japanese](https://img.shields.io/badge/Japanese-N5-b11226?style=flat-square&labelColor=0d1117)
 
 <div align="center">
 
