@@ -16,7 +16,7 @@
 
 <img src="assets/banner.svg" alt="Abtaal Aatif, AI Engineer" width="100%">
 
-<a href="https://github.com/Abtaal2003"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1200&color=FF4D4D&center=true&vCenter=true&width=620&lines=MSc+Data+Science+%40+University+of+Helsinki;Ex-IBM+%C2%B7+Ex-Data+Science+Dojo;Guardrails+in+code%2C+not+in+the+prompt;Open+to+AI+engineering+roles+in+Europe" alt="Typing taglines"></a>
+<a href="https://github.com/Abtaal2003"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1200&color=FF4D4D&center=true&vCenter=true&width=620&lines=MSc+Data+Science+%40+University+of+Helsinki;Ex-IBM+%C2%B7+Ex-Data+Science+Dojo;Guardrails+in+code%2C+not+in+the+prompt;Fine-tuning+small+LLMs+with+LoRA;Open+to+AI+engineering+roles+in+Europe" alt="Typing taglines"></a>
 
 ### I build AI agents that are measured and hardened, not just demoed.
 
@@ -52,6 +52,7 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 
 - Studying for the MSc in Data Science at the University of Helsinki
 - Building **Ultron Prime**, a security-first AI agent that blocks prompt injection in code instead of in the system prompt
+- Fine-tuning small open LLMs with LoRA: my latest, a PostgreSQL text-to-SQL model, went from **38% to 88%** execution match
 - Writing a public library of technical reference guides in [`deep-dives`](https://github.com/Abtaal2003/deep-dives)
 - Volunteering at **Slush 2026** and learning Swedish
 - Looking for AI engineering work in Europe, available immediately
@@ -60,7 +61,8 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **Ultron Prime** <br><sub>repo opening soon</sub> | Personal AI agent with a tool gate, egress holds and consent-gated memory. 0% attack success on 4 of 5 AgentDojo suites. | LangGraph · FastAPI · React |
+| [**ultron-prime**](https://github.com/Abtaal2003/ultron-prime) | Personal AI agent with a tool gate, egress holds and consent-gated memory. 0% attack success on 4 of 5 AgentDojo suites. | LangGraph · FastAPI · React |
+| [**postgresql-text2sql-lora**](https://github.com/Abtaal2003/postgresql-text2sql-lora) | LoRA fine-tune of Qwen2.5-Coder-0.5B for PostgreSQL text-to-SQL, scored by running every query on a real Postgres server. Execution match from **37.9% to 88.3%**. | PyTorch · TRL · PEFT · PostgreSQL |
 | [**parts-identifier**](https://github.com/Abtaal2003/parts-identifier) | Multimodal RAG that matches field photos to a parts catalogue, with a 50-query eval set and CI tests | FastAPI · sentence-transformers · Cerebras |
 | [**ketogenesis**](https://github.com/Abtaal2003/ketogenesis) | Live storefront for a food business with an LLM assistant grounded in its 77-item catalogue. [ketogenesis.shop](https://ketogenesis.shop) | Cloudflare Workers · Groq · Gemini |
 | [**deep-dives**](https://github.com/Abtaal2003/deep-dives) | Concept-by-concept technical reference guides, written to be read by anyone | Markdown |
@@ -88,6 +90,8 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 ![Llama](https://img.shields.io/badge/-Llama%203.3-b11226?style=flat-square&logo=meta&logoColor=white&labelColor=0d1117)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-b11226?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-b11226?style=flat-square&logo=huggingface&logoColor=white&labelColor=0d1117)
+![LoRA fine-tuning](https://img.shields.io/badge/LoRA%20fine--tuning-b11226?style=flat-square)
+![TRL](https://img.shields.io/badge/TRL-b11226?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-b11226?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)
 ![YOLOv11](https://img.shields.io/badge/-YOLOv11-b11226?style=flat-square&logo=ultralytics&logoColor=white&labelColor=0d1117)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-b11226?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)
@@ -96,7 +100,8 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 **Engineering**
 
 ![Python](https://img.shields.io/badge/-Python-b11226?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/-SQL-b11226?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-b11226?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b11226?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-b11226?style=flat-square&logo=javascript&logoColor=white&labelColor=0d1117)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-b11226?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![Flask](https://img.shields.io/badge/-Flask-b11226?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117)
