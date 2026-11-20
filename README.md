@@ -66,7 +66,6 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 | [**parts-identifier**](https://github.com/Abtaal2003/parts-identifier) | Multimodal RAG that matches field photos to a parts catalogue, with a 50-query eval set and CI tests | FastAPI · sentence-transformers · Cerebras |
 | [**ketogenesis**](https://github.com/ketogenesis-pk/Ketogenesis) | Live storefront for a food business with an LLM assistant grounded in its 77-item catalogue. [ketogenesis.shop](https://ketogenesis.shop) | Cloudflare Workers · Groq · Gemini |
 | [**deep-dives**](https://github.com/Abtaal2003/deep-dives) | Concept-by-concept technical reference guides, written to be read by anyone | Markdown |
-| [**projects**](https://github.com/Abtaal2003/projects) | Hands-on solo builds for learning, upskilling and practice | Python |
 | [**IBM-Data-Science-Capstone**](https://github.com/Abtaal2003/IBM-Data-Science-Capstone-Project) | Notebook work from the IBM Data Science Professional Certificate | Jupyter · Pandas |
 
 ## Experience
