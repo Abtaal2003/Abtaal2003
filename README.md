@@ -64,9 +64,9 @@ What I care about is agents that hold up once they leave the demo: evaluated on 
 | [**ultron-prime**](https://github.com/Abtaal2003/ultron-prime) | Personal AI agent with a tool gate, egress holds and consent-gated memory. 0% attack success on 4 of 5 AgentDojo suites. | LangGraph · FastAPI · React |
 | [**postgresql-text2sql-lora**](https://github.com/Abtaal2003/postgresql-text2sql-lora) | LoRA fine-tune of Qwen2.5-Coder-0.5B for PostgreSQL text-to-SQL, scored by running every query on a real Postgres server. Execution match from **37.9% to 88.3%**. | PyTorch · TRL · PEFT · PostgreSQL |
 | [**parts-identifier**](https://github.com/Abtaal2003/parts-identifier) | Multimodal RAG that matches field photos to a parts catalogue, with a 50-query eval set and CI tests | FastAPI · sentence-transformers · Cerebras |
-| [**ketogenesis**](https://github.com/ketogenesis-pk/Ketogenesis) | Live storefront for a food business with an LLM assistant grounded in its 77-item catalogue. [ketogenesis.shop](https://ketogenesis.shop) | Cloudflare Workers · Groq · Gemini |
 | [**deep-dives**](https://github.com/Abtaal2003/deep-dives) | Concept-by-concept technical reference guides, written to be read by anyone | Markdown |
 | [**IBM-Data-Science-Capstone**](https://github.com/Abtaal2003/IBM-Data-Science-Capstone-Project) | Notebook work from the IBM Data Science Professional Certificate | Jupyter · Pandas |
+| [**ketogenesis**](https://github.com/ketogenesis-pk/Ketogenesis) | Live storefront for a food business with an LLM assistant grounded in its 77-item catalogue. [ketogenesis.shop](https://ketogenesis.shop) | Cloudflare Workers · Groq · Gemini |
 
 ## Experience
 
